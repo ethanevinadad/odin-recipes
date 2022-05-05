@@ -10,5 +10,11 @@ There will be 3 links.  Each link will take you another page that will contain t
 Recipes will be:
 - Jerk Chicken Pasta (Rasta Pasta)
 - BBQ Chicken
+- Smash Burgers
+_______________________
+May 5, 2022
+Updated the recipes to:
+- Jerk Chicken Pasta
+- BBQ Chicken
 - Shrimp Stir-fry
 _______________________
