@@ -9,6 +9,6 @@ I'll start with a simple white background with black text.
 There will be 3 links.  Each link will take you another page that will contain the actual recipes.
 Recipes will be:
 - Jerk Chicken Pasta (Rasta Pasta)
-- Orange Chicken with White Rice
-- Smash Burgers
+- BBQ Chicken
+- Shrimp Stir-fry
 _______________________
