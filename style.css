@@ -1,0 +1,29 @@
+.body {
+    background-image: url(./images/blue-background.webp);
+}
+
+.heading {
+    color: #66ccff;
+    text-align: center;
+    font-size: 60px;
+}
+
+.jerk1, .bbq1, .shrimp1 {
+    display: block;
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+.jerk2, .bbq2, .shrimp2 {
+    width: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home {
+    color: white;
+}
+
+
