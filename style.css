@@ -12,7 +12,7 @@
     display: block;
     text-align: center;
     font-size: 25px;
-    color: black;
+    color: #66ccff;
 }
 
 .jerk2, .bbq2, .shrimp2 {
@@ -24,6 +24,10 @@
 
 .home {
     color: white;
+}
+
+div {
+    color: #66ccff;
 }
 
 
